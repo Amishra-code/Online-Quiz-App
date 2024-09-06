@@ -1,3 +1,16 @@
+# Quiz Management System
+
+The Quiz Management System is designed to offer a seamless and secure quiz-taking experience, leveraging modern technologies to enhance user engagement and ease of use.
+
+## Key Features
+
+- **Powered by Spring Boot:** Utilizes Spring Boot with MVC architecture, JPA repository, and Spring Security to ensure a seamless and secure quiz experience.
+
+- **Streamlined Subject Selection and Auto-Submit:** Features a user-friendly interface for hassle-free subject selection and an auto-submit function to simplify the quiz-taking process.
+
+- **Personalized Scoreboard:** Provides a personalized scoreboard that allows users to easily monitor their past quiz attempts, track subjects tackled, and review scores achieved.
+
+<br><br>
 <p align="center">
   <strong><u>REGISTER PAGE</u></strong>
   
